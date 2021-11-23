@@ -15,6 +15,8 @@ namespace Hello
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I love Visual Studio, .NET, the .NET Framework, Xamarin, and C#.");
+            Console.Write("Hello, programmers.")
+            Console.Write("Do you guys like C#? This program will also have input features soon.")
         }
     }
 }
