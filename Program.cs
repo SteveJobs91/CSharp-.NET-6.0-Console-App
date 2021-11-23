@@ -1,4 +1,9 @@
-﻿using System;
+//This is an open-source software program that is written in C# and is hosted on GitLab.
+// This program is written using .NET 6.0.
+// This program will be updated with variables.
+// This program will also be updated with input features.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
